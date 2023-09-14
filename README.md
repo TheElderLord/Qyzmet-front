@@ -1,3 +1,6 @@
+#Qyzmet-app-front
+Front of application was created on Vuejs 3. It uses several APIs for rendering map with corresponding coordinates(x,y). To render a point on ,ouse click and sends request to create new request with new coordinates 
+
 # package.json
 
 This template should help get you started developing with Vue 3 in Vite.
