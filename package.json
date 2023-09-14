@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "2gis-maps": "^3.7.3",
+    "axios": "^1.3.4",
+    "chart.js": "^4.2.1",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.58.3",
+    "vite": "^4.1.3"
+  }
+}
